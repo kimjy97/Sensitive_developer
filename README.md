@@ -15,4 +15,4 @@ C:\newTest>gulp fileinclude
 
 gulp.task('fileinclude', fucntion() { });
 
-ㄴ gulp.task('fileinclude', done => { done(); });
+ㄴ> gulp.task('fileinclude', done => { done(); });
