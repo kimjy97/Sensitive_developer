@@ -1,2 +1,2 @@
-# Meticulous_developer
-Coding and Designing everything meticulously.
+# Sensitive_developer
+Coding and Designing everything meticulously, sensitive.
